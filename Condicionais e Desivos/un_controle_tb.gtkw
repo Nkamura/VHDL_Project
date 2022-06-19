@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu May 19 22:37:28 2022
+[*]
+[dumpfile] "C:\Users\Henrique\Desktop\VHDL\Calculadora Programavel\un_controle_tb.ghw"
+[dumpfile_mtime] "Thu May 19 22:34:22 2022"
+[dumpfile_size] 5989
+[savefile] "C:\Users\Henrique\Desktop\VHDL\Calculadora Programavel\un_controle_tb.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -113 -113
+*-30.320028 194000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.un_controle_tb.
+[treeopen] top.un_controle_tb.uut.
+[treeopen] top.un_controle_tb.uut.liga_pc.
+[sst_width] 211
+[signals_width] 248
+[sst_expanded] 1
+[sst_vpaned_height] 301
+@28
+top.un_controle_tb.reset_t
+top.un_controle_tb.clk
+#{top.un_controle_tb.uut.estado[1:0]} top.un_controle_tb.uut.estado[1] top.un_controle_tb.uut.estado[0]
+@22
+#{top.un_controle_tb.uut.liga_pc.progcounter[6:0]} top.un_controle_tb.uut.liga_pc.progcounter[6] top.un_controle_tb.uut.liga_pc.progcounter[5] top.un_controle_tb.uut.liga_pc.progcounter[4] top.un_controle_tb.uut.liga_pc.progcounter[3] top.un_controle_tb.uut.liga_pc.progcounter[2] top.un_controle_tb.uut.liga_pc.progcounter[1] top.un_controle_tb.uut.liga_pc.progcounter[0]
+#{top.un_controle_tb.uut.reg_instr[17:0]} top.un_controle_tb.uut.reg_instr[17] top.un_controle_tb.uut.reg_instr[16] top.un_controle_tb.uut.reg_instr[15] top.un_controle_tb.uut.reg_instr[14] top.un_controle_tb.uut.reg_instr[13] top.un_controle_tb.uut.reg_instr[12] top.un_controle_tb.uut.reg_instr[11] top.un_controle_tb.uut.reg_instr[10] top.un_controle_tb.uut.reg_instr[9] top.un_controle_tb.uut.reg_instr[8] top.un_controle_tb.uut.reg_instr[7] top.un_controle_tb.uut.reg_instr[6] top.un_controle_tb.uut.reg_instr[5] top.un_controle_tb.uut.reg_instr[4] top.un_controle_tb.uut.reg_instr[3] top.un_controle_tb.uut.reg_instr[2] top.un_controle_tb.uut.reg_instr[1] top.un_controle_tb.uut.reg_instr[0]
+#{top.un_controle_tb.uut.readdata1[17:0]} top.un_controle_tb.uut.readdata1[17] top.un_controle_tb.uut.readdata1[16] top.un_controle_tb.uut.readdata1[15] top.un_controle_tb.uut.readdata1[14] top.un_controle_tb.uut.readdata1[13] top.un_controle_tb.uut.readdata1[12] top.un_controle_tb.uut.readdata1[11] top.un_controle_tb.uut.readdata1[10] top.un_controle_tb.uut.readdata1[9] top.un_controle_tb.uut.readdata1[8] top.un_controle_tb.uut.readdata1[7] top.un_controle_tb.uut.readdata1[6] top.un_controle_tb.uut.readdata1[5] top.un_controle_tb.uut.readdata1[4] top.un_controle_tb.uut.readdata1[3] top.un_controle_tb.uut.readdata1[2] top.un_controle_tb.uut.readdata1[1] top.un_controle_tb.uut.readdata1[0]
+#{top.un_controle_tb.uut.readdata2[17:0]} top.un_controle_tb.uut.readdata2[17] top.un_controle_tb.uut.readdata2[16] top.un_controle_tb.uut.readdata2[15] top.un_controle_tb.uut.readdata2[14] top.un_controle_tb.uut.readdata2[13] top.un_controle_tb.uut.readdata2[12] top.un_controle_tb.uut.readdata2[11] top.un_controle_tb.uut.readdata2[10] top.un_controle_tb.uut.readdata2[9] top.un_controle_tb.uut.readdata2[8] top.un_controle_tb.uut.readdata2[7] top.un_controle_tb.uut.readdata2[6] top.un_controle_tb.uut.readdata2[5] top.un_controle_tb.uut.readdata2[4] top.un_controle_tb.uut.readdata2[3] top.un_controle_tb.uut.readdata2[2] top.un_controle_tb.uut.readdata2[1] top.un_controle_tb.uut.readdata2[0]
+#{top.un_controle_tb.uut.saida_ula[17:0]} top.un_controle_tb.uut.saida_ula[17] top.un_controle_tb.uut.saida_ula[16] top.un_controle_tb.uut.saida_ula[15] top.un_controle_tb.uut.saida_ula[14] top.un_controle_tb.uut.saida_ula[13] top.un_controle_tb.uut.saida_ula[12] top.un_controle_tb.uut.saida_ula[11] top.un_controle_tb.uut.saida_ula[10] top.un_controle_tb.uut.saida_ula[9] top.un_controle_tb.uut.saida_ula[8] top.un_controle_tb.uut.saida_ula[7] top.un_controle_tb.uut.saida_ula[6] top.un_controle_tb.uut.saida_ula[5] top.un_controle_tb.uut.saida_ula[4] top.un_controle_tb.uut.saida_ula[3] top.un_controle_tb.uut.saida_ula[2] top.un_controle_tb.uut.saida_ula[1] top.un_controle_tb.uut.saida_ula[0]
+[pattern_trace] 1
+[pattern_trace] 0
