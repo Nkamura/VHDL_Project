@@ -1,0 +1,31 @@
+v 4
+file . "ram.vhd" "71d869630bb0746b3e89d4d728719def4b39ccf1" "20220622020135.690":
+  entity ram at 1( 0) + 0 on 1635;
+  architecture a_ram of ram at 16( 362) + 0 on 1636;
+file . "banco_reg_tb.vhd" "e96705d8f7dc3468fe12b6c435bcf386691ed64b" "20220517223004.716":
+  entity banco_reg_tb at 1( 0) + 0 on 245;
+  architecture a_banco_reg_tb of banco_reg_tb at 8( 106) + 0 on 246;
+file . "maq_estados.vhd" "f903848796ae4f25e73b0c18373d56d0751c718a" "20220622020135.562":
+  entity maq_estados at 1( 0) + 0 on 1625;
+  architecture a_maq_estados of maq_estados at 9( 188) + 0 on 1626;
+file . "rom.vhd" "c4ab9cca8da5caf723e4c792c590be3bbb072db9" "20220622020135.613":
+  entity rom at 1( 0) + 0 on 1629;
+  architecture a_rom of rom at 13( 259) + 0 on 1630;
+file . "maq_estd.vhd" "83097a66c18fbe56129b4fb42ba9581aeea927ad" "20220517212450.342":
+  entity maq_estd at 1( 0) + 0 on 43;
+  architecture a_maq_estd of maq_estd at 11( 206) + 0 on 44;
+file . "un_controle.vhd" "68dbca866ab6d0f2333f2d7e2f1ea19d2f6cafcb" "20220622020135.663":
+  entity un_controle at 1( 0) + 0 on 1633;
+  architecture a_un_controle of un_controle at 11( 170) + 0 on 1634;
+file . "un_controle_tb.vhd" "98b86f132cc07ecbe296f60af8c78ecf60857237" "20220622020135.712":
+  entity un_controle_tb at 1( 0) + 0 on 1637;
+  architecture a_un_controle_tb of un_controle_tb at 8( 108) + 0 on 1638;
+file . "banco_reg.vhd" "e3fbd8bcb60f17ef5c5de9c82bf11fc7fcb51bd7" "20220622020135.533":
+  entity banco_reg at 1( 0) + 0 on 1623;
+  architecture a_banco_reg of banco_reg at 19( 548) + 0 on 1624;
+file . "pc.vhd" "abbbc29703c0c419f957225b1c845daf68083696" "20220622020135.585":
+  entity pc at 1( 0) + 0 on 1627;
+  architecture a_pc of pc at 13( 286) + 0 on 1628;
+file . "ula.vhd" "67fe843bd3f7a7125a92a342535cff44f2ab329e" "20220622020135.638":
+  entity ula at 1( 0) + 0 on 1631;
+  architecture a_ula of ula at 16( 344) + 0 on 1632;
